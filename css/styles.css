@@ -4157,3 +4157,15 @@ img.u-pull-left {
         width  : 1.6rem;
     }
 }
+/* lime additions */
+.s1 {
+    padding-top      : calc(3 * var(--space));
+    padding-bottom   : calc(2.5 * var(--space));
+    background-color : rgb(230, 236, 236);
+}
+
+.s2 {
+    padding-top      : calc(3 * var(--space));
+    padding-bottom   : calc(2.5 * var(--space));
+    background-color : rgb(255, 255, 255);
+}
